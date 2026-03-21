@@ -1,10 +1,9 @@
 ## 1. Tabla de caracterización ##
-| Columna 1 | Columna 2 |
+| Parámetro | Valor Observado |
 |----------|----------|
-| Fila 1   | Dato     |
-| Fila 2   | Dato     |
-| Fila 3   | Dato     |
-| Fila 4   | Dato     |
-| Fila 5   | Dato     |
-| Fila 6   | Dato     |
-| Fila 7   | Dato     |
+| Sistema Operativo   | Windows 11 Home 25H2    |
+|CPU (Modelo y Frecuencia)  |   Inter Core Ultra 5 125H   |
+| Arquitectura y Núcleos  | x64 / 14 nucleos  |
+| Memoria RAM Total   |16 GB    |
+|Tecnología de Almacenamiento  | SSD (NVMe)    |
+| Carga de CPU en Reposo (%)  | 2% - 3%    |
