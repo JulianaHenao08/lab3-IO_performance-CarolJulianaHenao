@@ -1,4 +1,4 @@
-##1. Tabla de caracterización##
+## 1. Tabla de caracterización ##
 | Columna 1 | Columna 2 |
 |----------|----------|
 | Fila 1   | Dato     |
