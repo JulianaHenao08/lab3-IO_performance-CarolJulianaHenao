@@ -9,4 +9,4 @@
 | Carga de CPU en Reposo (%)  | 2% - 3%    |
 
 ## 2. Resultados del experimento 
-![Throughput](images/fig_throughput)
+![Throughput](images/fig_throughput.png)
