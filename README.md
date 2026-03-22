@@ -1,4 +1,4 @@
-## 1. Tabla de caracterización ##
+## 1. Tabla de caracterización 
 | Parámetro | Valor Observado |
 |----------|----------|
 | Sistema Operativo   | Windows 11 Home 25H2    |
@@ -7,3 +7,6 @@
 | Memoria RAM Total   |16 GB    |
 |Tecnología de Almacenamiento  | SSD (NVMe)    |
 | Carga de CPU en Reposo (%)  | 2% - 3%    |
+
+## 2. Resultados del experimento 
+![Throughput](images/fig_throughput)
