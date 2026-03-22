@@ -9,15 +9,9 @@
 | Carga de CPU en Reposo (%)  | 2% - 3%    |
 
 ## 2. Resultados del experimento 
-Throughput
+
 ![Throughput](images/fig_throughput.png)
-
-Tiempo de ejecución
 ![Throughput](images/fig_tiempo_empirico.png)
-
-Comparación secuencial vs aleatorio
 ![Throughput](images/fig_tiempo_teoria_vs_practica_aleatorio.png)
 ![Throughput](images/fig_tiempo_teoria_vs_practica_secuencial.png)
-
-Speedup
 ![Throughput](images/fig_speedup.png)
